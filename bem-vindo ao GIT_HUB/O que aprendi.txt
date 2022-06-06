@@ -1,0 +1,14 @@
+ O curso foi meu primeiro contato com a plataforma GIT. Não é bem "noob friendly", mas, com o auxlio do professor, conseguir aprender e ter uma noção do que se trata e como se utiliza
+
+
+/criar conta GITHUB: https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+Através do site, é possível compartilhar repositorios além da seu sistema interno, criando uma rede externalizada
+
+/https://git-scm.com/download/win
+
+O GIT é a forma de atualizar repositorios no seu sistema, além de criar novos, editar e etc.
+
+/MARKDOWN 
+é uma linguagem usuario friendly, bom para quem não tá familiarizado com HTML, permite editar textos com caracteres especiais.
+
